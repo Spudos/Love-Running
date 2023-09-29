@@ -91,7 +91,9 @@ main {
 
 /* Footer */
 footer {
-    background-color: orange;
+    background-color: white;
+    justify-content: space-between;
+    display: block;
 }
 
 /* media query: tablet and parger (768 px & higher) */
